@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Food Journal</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_name">Login</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="signed_in_toast_message">Signed In</string>
+    <string name="not_signed_in_toast_message">User not signed in</string>
+    <string name="login_toast_messge">Log in successful</string>
+    <string name="unsuccessful_login_toast_messge">Log in not successful</string>
+    <string name="add_record">Add meal</string>
+    <string name="sign_out">Sign out</string>
+</resources>
